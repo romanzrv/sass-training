@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+}
+
+div {
+  float: left;
+  width: 600px / 960px * 100%;
+}
+
+span {
+  float: right;
+  width: 300px / 960px * 100%;
+}
